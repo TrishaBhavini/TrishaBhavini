@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋 I'm Trisha 🚀
 
-<!--
-**TrishaBhavini/TrishaBhavini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Final-year Computer Science student
+- 💻 Enthusiastic about **AI, Blockchain, and Smart Tech**
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** C++, JavaScript, SQL, Java, Python
+- **Softwares:** Unity, Blender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/trisha-bhavini-984753251/)
+- 📧 [trishabhavini@gmail.com](trishabhavini@gmail.com)
+
+Always open to collaborations and discussions on tech & beyond! Let's innovate together. ✨
+
+
