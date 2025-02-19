@@ -4,7 +4,7 @@
 - 💻 Enthusiastic about **AI, Blockchain, and Smart Tech**
 
 ## 🛠️ Tech Stack
-- **Languages:** C++, JavaScript, SQL, Java, Python
+- **Languages:** C++, SQL, Java, Python, JavaScript, HTML, CSS
 - **Softwares:** Unity, Blender
 
 ## 📫 Connect with Me
